@@ -17,7 +17,7 @@
 		<div class="row">
 			<div class="col antras penktas text-center" id="t-2"><h2>My portfolio is HERE</h2></div>
 			<div class="col antras penktas text-center blog" id="t-1">Blog</div>
-			<div class="col-6  text-center tas" id="t-4">
+			<div class="col-6 text-center tas" id="t-4">
 				<div class="row">
 					<div class="col-3 lang-1">Photo album:</div>
 					<div class="col-3 lang-2" id="t-2">Foto 1</div>
@@ -36,7 +36,7 @@
 			<div class="col trecias text-center contact" id="t-1">Contacts</div>
 		</div>
 		<div class="row">
-			<div class="col text-center ketvirtas f-1" id="f-1">1</div>
+			<div class="col text-center ketvirtas f-1" id="f-1">bam</div>
 			<div class="col text-center f-2" id="f-2">2</div>
 			<div class="col text-center f-3" id="f-3">3</div>
 			<div class="col text-center f-4" id="f-4">4</div>

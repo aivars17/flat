@@ -5,7 +5,7 @@
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css">
-	
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
 	<div class="container-fluid">
@@ -18,13 +18,16 @@
 			<div class="col antras penktas text-center" id="t-2"><h2>My portfolio is HERE</h2></div>
 			<div class="col antras penktas text-center blog" id="t-1">Blog</div>
 			<div class="col-6 text-center tas" id="t-4">
-				<div class="row">
-					<div class="col-3 lang-1">Photo album:</div>
-					<div class="col-3 lang-2" id="t-2">Foto 1</div>
+				<div class="row"><div class="col bim">
+				<div class="row ">
+					<div class="col lang-1">Photo album:</div>
+					<div class="col lang-2" id="t-2">Foto 1</div>
 				</div>
 				<div class="row">
-					<div class="col-3 lang-3" id="t-3">Foto 2</div>
-					<div class="col-3 lang-4" id="t-1">Foto 3</div>
+					<div class="col lang-3" id="t-3">Foto 2</div>
+					<div class="col lang-4" id="t-1">Foto 3</div>
+				</div>
+				</div>
 				</div>
 		</div>
 		</div>
